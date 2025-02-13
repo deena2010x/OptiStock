@@ -1,4 +1,5 @@
-Stock Management System
+###OptiStock
+**Stock Management System**
 A terminal-based application designed to manage suppliers, inventory items, and user credentials efficiently. It provides a simple command-line interface for small and medium businesses to track stock levels, manage supplier relationships, and maintain secure user credentials.
 
 Features
