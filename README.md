@@ -8,12 +8,15 @@ A terminal-based application designed to manage suppliers, inventory items, and 
 Supplier Management:
 Add, edit, and delete supplier information.
 Keep track of multiple suppliers with key details (name, contact, etc.).
+
 Item Management:
 Add, edit, and delete inventory items.
 Update item details like name, price, quantity, and supplier information.
+
 Stock Tracking:
 Monitor current stock levels and inventory status.
 Set alerts for low stock or restocking needs.
+
 User Credential Management:
 Securely update and change user credentials.
 Role-based access control to ensure that only authorized users can modify critical information.
