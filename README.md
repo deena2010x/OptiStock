@@ -1,8 +1,9 @@
-###OptiStock
+### OptiStock
+
 **Stock Management System**
 A terminal-based application designed to manage suppliers, inventory items, and user credentials efficiently. It provides a simple command-line interface for small and medium businesses to track stock levels, manage supplier relationships, and maintain secure user credentials.
 
-Features
+**Features**
 Supplier Management:
 
 Add, edit, and delete supplier information.
@@ -24,7 +25,7 @@ The Stock Management System offers a command-line interface (CLI) to manage busi
 
 Designed for simplicity, this system is ideal for small businesses or environments where a lightweight, no-frills solution is required for managing stock and suppliers. No complex graphical user interfaces are needed, allowing for fast and direct interaction with the system.
 
-Commands
+**Commands**
 add supplier: Adds a new supplier to the system.
 edit item: Edits details of an existing inventory item.
 view stock: Displays the current status of all items, including stock levels.
