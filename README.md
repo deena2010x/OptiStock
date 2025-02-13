@@ -29,8 +29,11 @@ Designed for simplicity, this system is ideal for small businesses or environmen
 **Commands**
 
 add supplier: Adds a new supplier to the system.
+
 edit item: Edits details of an existing inventory item.
+
 view stock: Displays the current status of all items, including stock levels.
+
 update password: Securely updates user credentials.
 delete item: Removes an item from the inventory.
 delete supplier: Removes a supplier from the system.
