@@ -5,24 +5,23 @@ A terminal-based application designed to manage suppliers, inventory items, and 
 
 **Features**
 Supplier Management:
-
 Add, edit, and delete supplier information.
 Keep track of multiple suppliers with key details (name, contact, etc.).
-Item Management:
 
+Item Management:
 Add, edit, and delete inventory items.
 Update item details like name, price, quantity, and supplier information.
-Stock Tracking:
 
+Stock Tracking:
 Monitor current stock levels and inventory status.
 Set alerts for low stock or restocking needs.
-User Credential Management:
 
+User Credential Management:
 Securely update and change user credentials.
 Role-based access control to ensure that only authorized users can modify critical information.
-Overview
-The Stock Management System offers a command-line interface (CLI) to manage business stock and suppliers. Users can perform tasks like tracking stock, adding new inventory items, updating supplier information, and securely managing user access—all from a terminal.
 
+**Overview**
+The Stock Management System offers a command-line interface (CLI) to manage business stock and suppliers. Users can perform tasks like tracking stock, adding new inventory items, updating supplier information, and securely managing user access—all from a terminal.
 Designed for simplicity, this system is ideal for small businesses or environments where a lightweight, no-frills solution is required for managing stock and suppliers. No complex graphical user interfaces are needed, allowing for fast and direct interaction with the system.
 
 **Commands**
